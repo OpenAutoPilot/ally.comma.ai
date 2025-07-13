@@ -1,8 +1,12 @@
 # ally.comma.ai
-Home: https://comma.ai source: https://github.com/commaai
+Home: https://comma.ai
+
+source: https://github.com/commaai
 
 ## project: OpenPilot
 https://comma.ai/openpilot
+
+source: https://github.com/commaai/openpilot
 
 ## OS: Agnos (Ubuntu based)
 https://github.com/commaai/agnos-builder
