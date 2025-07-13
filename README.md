@@ -8,6 +8,8 @@ https://comma.ai/openpilot
 
 source: https://github.com/commaai/openpilot
 
+wiki: https://en.wikipedia.org/wiki/Openpilot
+
 ## OS: Agnos (Ubuntu based)
 https://github.com/commaai/agnos-builder
 
